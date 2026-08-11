@@ -39,5 +39,8 @@ Tools: QGIS, Buffer, Intersection, Reprojection
 - Python (in progress)
 
 ### Contact
-LinkedIn: [your linkedin URL]
-Email: [your email]
+linkedIn URL: https://www.linkedin.com/in/khanyiso-g-dubeLinkedIn
+Email: kdmafela@gmail.com
+to me
+
+https://www.linkedin.com/in/khanyiso-g-dube
