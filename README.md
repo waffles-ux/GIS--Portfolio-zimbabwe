@@ -41,6 +41,3 @@ Tools: QGIS, Buffer, Intersection, Reprojection
 ### Contact
 linkedIn URL: https://www.linkedin.com/in/khanyiso-g-dubeLinkedIn
 Email: kdmafela@gmail.com
-to me
-
-https://www.linkedin.com/in/khanyiso-g-dube
